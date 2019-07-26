@@ -1,4 +1,4 @@
-# World Bank Tax Policy Reseach Unit, 2019
+# World Bank - Tax Policy Reseach Unit, 2019
 
 This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-8 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
@@ -74,7 +74,7 @@ Both Visual Studio (VS) Code and Atom are completely free. In the following subs
 
 ### 3.1. VS Code
 
-VS Code will be included with your installation of Anaconda.  This is a very capable texteditor and will include syntax highlighting for Python and and built in Git contols.  In addition to the basics, you may want to use a more advanced linter for Python.  This will help you correct syntax errors on the fly and provide helpful information as you declare objects and call functions.  [This link](https://code.visualstudio.com/docs/python/linting) provides step-by-step instructions on using more advanced linting in VS Code. 
+VS Code will be included with your installation of Anaconda.  This is a very capable texteditor and will include syntax highlighting for Python and and built in Git contols.  In addition to the basics, you may want to use a more advanced linter for Python.  This will help you correct syntax errors on the fly and provide helpful information as you declare objects and call functions.  [This link](https://code.visualstudio.com/docs/python/linting) provides step-by-step instructions on using more advanced linting in VS Code.
 
 ### 3.2. Atom
 
