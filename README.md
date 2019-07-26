@@ -2,7 +2,7 @@
 
 This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
-This `README.md` serves as a reference for the TPRU training. This document has 12 sections.
+This `README.md` serves as a reference for the TPRU training. This document has seven sections.
 
 1. [Training schedule](#1-training-schedule)
 2. [Instructions for installing the Anaconda distribution of Python](#2-instructions-for-installing-the-anaconda-distribution-of-python)
@@ -36,7 +36,7 @@ Below is a summary schedule of topics.
 
 | Meeting | Day | Date | Topics |
 |:---:|:---:|:--- |:--- |
-1  | M   | Aug. 19 | Theory and components/modules of [OG-USA](https://github.com/PSLmodels/OG-USA), Downloading the model, installing package, setting a policy |
+1  | M   | Aug. 19 | Theory and components/modules of [OG-USA](https://github.com/PSLmodels/OG-USA), Downloading the model, installing packages, setting a policy |
 2  | T   | Aug. 20 | Estimation of tax functions from India microsimulation model, Calibrating lifetime earnings profiles |
 3  | W   | Aug. 21 | Calibrating demographics, Calibrating bequests and transfers |
 4  | Th   | Aug. 22 | Calibrating labor supply and wealth distribution: chi_n^s, chi_b^j, Calibrating open economy, government closure rule |
