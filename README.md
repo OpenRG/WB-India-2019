@@ -1,6 +1,6 @@
 # World Bank - Tax Policy Reseach Unit, 2019
 
-This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-8 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
+This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
 This `README.md` serves as a reference for the TPRU training. This document has 12 sections.
 
