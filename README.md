@@ -1,6 +1,6 @@
-# World Bank - Tax Policy Reseach Unit, 2019
+# World Bank - Tax Policy Research Unit, 2019
 
-This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
+This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Associate Director and Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
 This `README.md` serves as a reference for the TPRU training. This document has seven sections.
 
@@ -15,9 +15,9 @@ This `README.md` serves as a reference for the TPRU training. This document has 
 
 ## 1. Training Schedule
 
-There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two, two-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
+There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
 
-The second part will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
+The second part of the training will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
 
 Below is a summary schedule of topics.
 
