@@ -160,14 +160,14 @@ When you are done with a Jupyter notebook, you first save any changes that you w
 
 ## 7. Python tutorials
 
-For this training, we have included in this repository six basic Python tutorials in the [`Tutorials`](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials) directory.
+For this training, we have included in this repository six basic Python tutorials in the [`Tutorials`](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials) directory.
 
-1. [PythonReadIn.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonReadIn.ipynb). This Jupyter notebook provides instruction on basic Python I/O, reading data into Python, and saving data to disk.
-2. [PythonNumpyPandas.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonNumpyPandas.ipynb). This Jupyter notebook provides instruction on working with data using `NumPy` as well as Python's powerful data library `pandas`.
-3. [PythonDescribe.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonDescribe.ipynb). This Jupyter notebook provides instruction on describing, slicing, and manipulating data in Python.
-4. [PythonFuncs.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonFuncs.ipynb). This Jupyter notebook provides instruction on working with and writing Python functions.
-5. [PythonVisualize.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonVisualize.ipynb). This Jupyter notebook provides instruction on creating visualizations in Python.
-6. [PythonRootMin.ipynb](https://github.com/rickecon/WB-India-2019/tree/master/Tutorials/PythonRootMin.ipynb). This Jupyter notebook provides instruction on implementing univariate and multivariate root finders and unconstrained and constrained minimizers using functions in the [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html) sub-library.
+1. [PythonReadIn.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonReadIn.ipynb). This Jupyter notebook provides instruction on basic Python I/O, reading data into Python, and saving data to disk.
+2. [PythonNumpyPandas.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonNumpyPandas.ipynb). This Jupyter notebook provides instruction on working with data using `NumPy` as well as Python's powerful data library `pandas`.
+3. [PythonDescribe.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonDescribe.ipynb). This Jupyter notebook provides instruction on describing, slicing, and manipulating data in Python.
+4. [PythonFuncs.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonFuncs.ipynb). This Jupyter notebook provides instruction on working with and writing Python functions.
+5. [PythonVisualize.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonVisualize.ipynb). This Jupyter notebook provides instruction on creating visualizations in Python.
+6. [PythonRootMin.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonRootMin.ipynb). This Jupyter notebook provides instruction on implementing univariate and multivariate root finders and unconstrained and constrained minimizers using functions in the [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html) sub-library.
 
 To further one's Python programming skills, a number of other great resources exist.
 
