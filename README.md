@@ -1,6 +1,6 @@
-# World Bank - Tax Policy Reseach Unit, 2019
+# World Bank - Tax Policy Research Unit, 2019
 
-This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Senior Lecturer and Associate Director at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
+This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Associate Director and Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
 This `README.md` serves as a reference for the TPRU training. This document has seven sections.
 
@@ -15,9 +15,9 @@ This `README.md` serves as a reference for the TPRU training. This document has 
 
 ## 1. Training Schedule
 
-There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two, two-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
+There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
 
-The second part will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
+The second part of the training will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
 
 Below is a summary schedule of topics.
 
@@ -45,21 +45,12 @@ Below is a summary schedule of topics.
 
 We have provided 6 areas of tutorials that you will benefit from reading and working through before the training. We will, of course, teach these things as we go through the material. But we will be able to proceed at a faster pace if the attendees are already familiar with most of the concepts below.
 
-Pre-course Tutorial Areas
-
-1. Instructions for installing the Anaconda distribution of Python
-2. Text editor suggestions (Atom, Sublime Text 3, Vim)
-3. PEP8, docstring commenting, and module structure
-4. Git and GitHub tutorial
-5. Jupyter Notebooks
-6. Basic Python tutorials (data structures, logic, functions and modules, pandas, root finders and minimizers)
-
 
 ## 2. Instructions for installing the Anaconda distribution of Python
 
 We will be using the [Python](https://www.python.org/) programming language and many of its powerful libraries for writing the code that will run most of the computational methods we will use during the Boot Camp. Using an open source language, such as Python, has the advantage of being free and accessible for anyone who wishes to learn these materials or contribute to these projects. Being open source also allows Python users to go into the source code of any function to modify it to suit one's needs.
 
-We recommend that each participant download the Anaconda distribution of Python provided by [Anaconda, Inc.](https://www.anaconda.com/distribution/). We recommend the most recent stable version of Python, which is currently Python 3.7. This can be done from the [Anaconda download page](https://www.anaconda.com/distribution/) for Windows, Mac OSX, and Linux machines.
+We recommend that each participant download the Anaconda distribution of Python provided by [Anaconda, Inc.](https://www.anaconda.com/distribution/) We recommend the most recent stable version of Python, which is currently Python 3.7. This can be done from the [Anaconda download page](https://www.anaconda.com/distribution/) for Windows, Mac OSX, and Linux machines.
 
 
 ## 3. Text editor suggestions
@@ -74,7 +65,7 @@ Both Visual Studio (VS) Code and Atom are completely free. In the following subs
 
 ### 3.1. VS Code
 
-VS Code will be included with your installation of Anaconda.  This is a very capable texteditor and will include syntax highlighting for Python and and built in Git contols.  In addition to the basics, you may want to use a more advanced linter for Python.  This will help you correct syntax errors on the fly and provide helpful information as you declare objects and call functions.  [This link](https://code.visualstudio.com/docs/python/linting) provides step-by-step instructions on using more advanced linting in VS Code.
+VS Code will be included with your installation of Anaconda.  This is a very capable text editor and will include syntax highlighting for Python and and built in Git controls.  In addition to the basics, you may want to use a more advanced linter for Python.  This will help you correct syntax errors on the fly and provide helpful information as you declare objects and call functions.  [This link](https://code.visualstudio.com/docs/python/linting) provides step-by-step instructions on using more advanced linting in VS Code.
 
 ### 3.2. Atom
 
@@ -169,14 +160,14 @@ When you are done with a Jupyter notebook, you first save any changes that you w
 
 ## 7. Python tutorials
 
-For this training, we have included in this repository six basic Python tutorials in the [`Tutorials`](https://github.com/OpenSourceMacro/BootCamp2019/tree/master/Tutorials) directory.
+For this training, we have included in this repository six basic Python tutorials in the [`Tutorials`](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials) directory.
 
-1. [PythonReadIn.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonReadIn.ipynb). This Jupyter notebook provides instruction on basic Python I/O, reading data into Python, and saving data to disk.
-2. [PythonNumpyPandas.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonNumpyPandas.ipynb). This Jupyter notebook provides instruction on working with data using `NumPy` as well as Python's powerful data library `pandas`.
-3. [PythonDescribe.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonDescribe.ipynb). This Jupyter notebook provides instruction on describing, slicing, and manipulating data in Python.
-4. [PythonFuncs.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonFuncs.ipynb). This Jupyter notebook provides instruction on working with and writing Python functions.
-5. [PythonVisualize.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonVisualize.ipynb). This Jupyter notebook provides instruction on creating visualizations in Python.
-6. [PythonRootMin.ipynb](https://github.com/OpenSourceMacro/BootCamp2019/blob/master/Tutorials/PythonRootMin.ipynb). This Jupyter notebook provides instruction on implementing univariate and multivariate root finders and unconstrained and constrained minimizers using functions in the [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html) sub-library.
+1. [PythonReadIn.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonReadIn.ipynb). This Jupyter notebook provides instruction on basic Python I/O, reading data into Python, and saving data to disk.
+2. [PythonNumpyPandas.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonNumpyPandas.ipynb). This Jupyter notebook provides instruction on working with data using `NumPy` as well as Python's powerful data library `pandas`.
+3. [PythonDescribe.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonDescribe.ipynb). This Jupyter notebook provides instruction on describing, slicing, and manipulating data in Python.
+4. [PythonFuncs.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonFuncs.ipynb). This Jupyter notebook provides instruction on working with and writing Python functions.
+5. [PythonVisualize.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonVisualize.ipynb). This Jupyter notebook provides instruction on creating visualizations in Python.
+6. [PythonRootMin.ipynb](https://github.com/OpenRG/WB-India-2019/tree/master/Tutorials/PythonRootMin.ipynb). This Jupyter notebook provides instruction on implementing univariate and multivariate root finders and unconstrained and constrained minimizers using functions in the [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html) sub-library.
 
 To further one's Python programming skills, a number of other great resources exist.
 
