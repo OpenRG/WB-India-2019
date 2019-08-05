@@ -15,7 +15,7 @@ This `README.md` serves as a reference for the TPRU training. This document has 
 
 ## 1. Training Schedule
 
-There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
+There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 9:00-11:00am and 4:00-6:00pm, Delhi time.
 
 The second part of the training will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
 
