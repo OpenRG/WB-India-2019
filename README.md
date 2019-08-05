@@ -26,8 +26,8 @@ Below is a summary schedule of topics.
 | Meeting | Day | Date | Topics | Resources |
 |:---:|:---:|:--- |:--- |:--- |
 1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | Slides |
-1 | M | Aug. 5 |   | [Python Intro]() |
-1 | M | Aug. 5 |   | Notebook |
+1 | M | Aug. 5 |  | [Python Intro]() |
+1 | M | Aug. 5 | Reading in Python data | [Notebook]() |
 2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
 3 | W | Aug. 7 | Object oriented programming, functions, docstrings |  |
 4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
