@@ -15,7 +15,7 @@ This `README.md` serves as a reference for the TPRU training. This document has 
 
 ## 1. Training Schedule
 
-There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 10:00am-12:00pm and 4:00pm-6:00pm, Delhi time.
+There will be two weeks of training in this program.  The first week will be held remotely via WebEx or Zoom and begins on Monday, August 5 and ends on Friday, August 9.  There will be two 2-hour sections held on Monday (August 5), Wednesday (August 7), and Friday (August 9).  The sessions will be held at 9:00-11:00am and 4:00-6:00pm, Delhi time.
 
 The second part of the training will be held on site in Dehli from August 19-23.  During this week, participants will work 9:00am-12:00pm and 1:00pm-4:00pm.
 
@@ -23,14 +23,16 @@ Below is a summary schedule of topics.
 
 ### Week 1
 
-| Meeting | Day | Date | Topics |
-|:---:|:---:|:--- |:--- |
-1  | M   | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output |
-2  | M   | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |
-3  | W   | Aug. 7 | Object oriented programming, functions, docstrings |
-4  | W   | Aug. 7 | Optimization (unconstrained, constrained) |
-5  | F   | Aug. 9 | Three period lived agent OG model - theory |
-6  | F   | Aug. 9 | Three period lived agent OG model - computation |
+| Meeting | Day | Date | Topics | Resources |
+|:---:|:---:|:--- |:--- |:--- |
+1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | Slides |
+1 | M | Aug. 5 |  | [Python Intro]() |
+1 | M | Aug. 5 | Reading in Python data | [Notebook]() |
+2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
+3 | W | Aug. 7 | Object oriented programming, functions, docstrings |  |
+4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
+5 | F | Aug. 9 | Three period lived agent OG model - theory |  |
+6 | F | Aug. 9 | Three period lived agent OG model - computation |  |
 
 ### Week 2
 
@@ -175,3 +177,8 @@ To further one's Python programming skills, a number of other great resources ex
 * [QuantEcon.net](https://lectures.quantecon.org/py/) is a site run by [Thomas Sargent](http://www.tomsargent.com/) (NYU Stern) and [John Stachurski](http://johnstachurski.net/) (Australia National University). QuantEcon has a very large number of high-quality economics focused computational tutorials in Python. The first three sections provide a good introduction to Python programming.
 * [Python computational labs](http://www.acme.byu.edu/2017-2018-materials/) of the Applied and Computational Mathematics Emphasis at Brigham Young University.
 * [Code Academy's Python learning module](https://www.codecademy.com/learn/learn-python)
+
+## 8. References
+
+* DeBacker, Jason and Richard W. Evans, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2019).
+* Humpherys, Jeffrey and Tyler J. Jarvis, "[Python Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf)," *Labs for Foundations of Applied Mathematics*, (2019).
