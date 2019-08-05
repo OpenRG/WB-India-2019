@@ -1,4 +1,4 @@
-# World Bank - Tax Policy Research Unit, 2019
+﻿# World Bank - Tax Policy Research Unit, 2019 - Training Program
 
 This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Associate Director and Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina.
 
