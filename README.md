@@ -26,6 +26,7 @@ Below is a summary schedule of topics.
 | Meeting | Day | Date | Topics | Resources |
 |:---:|:---:|:--- |:--- |:--- |
 1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | Slides |
+1 | M | Aug. 5 |   | [Python Intro]() |
 1 | M | Aug. 5 |   | Notebook |
 2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
 3 | W | Aug. 7 | Object oriented programming, functions, docstrings |  |
@@ -176,3 +177,8 @@ To further one's Python programming skills, a number of other great resources ex
 * [QuantEcon.net](https://lectures.quantecon.org/py/) is a site run by [Thomas Sargent](http://www.tomsargent.com/) (NYU Stern) and [John Stachurski](http://johnstachurski.net/) (Australia National University). QuantEcon has a very large number of high-quality economics focused computational tutorials in Python. The first three sections provide a good introduction to Python programming.
 * [Python computational labs](http://www.acme.byu.edu/2017-2018-materials/) of the Applied and Computational Mathematics Emphasis at Brigham Young University.
 * [Code Academy's Python learning module](https://www.codecademy.com/learn/learn-python)
+
+## 8. References
+
+* DeBacker, Jason and Richard W. Evans, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2019).
+* Humpherys, Jeffrey and Tyler J. Jarvis, "Python Essentials," *Labs for Foundations of Applied Mathematics*, \href{https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf}{https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf}, (2019).
