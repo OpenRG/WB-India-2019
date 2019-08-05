@@ -181,4 +181,4 @@ To further one's Python programming skills, a number of other great resources ex
 ## 8. References
 
 * DeBacker, Jason and Richard W. Evans, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2019).
-* Humpherys, Jeffrey and Tyler J. Jarvis, "Python Essentials," *Labs for Foundations of Applied Mathematics*, \href{https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf}{https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf}, (2019).
+* Humpherys, Jeffrey and Tyler J. Jarvis, "[Python Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf)," *Labs for Foundations of Applied Mathematics*, (2019).
