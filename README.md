@@ -25,9 +25,9 @@ Below is a summary schedule of topics.
 
 | Meeting | Day | Date | Topics | Resources |
 |:---:|:---:|:--- |:--- |:--- |
-1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | Slides |
-1 | M | Aug. 5 |  | [Python Intro]() |
-1 | M | Aug. 5 | Reading in Python data | [Notebook]() |
+1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_d1_Evans.pdf) |
+1 | M | Aug. 5 |  | [Python Intro](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_PythonIntro.pdf) |
+1 | M | Aug. 5 | Reading in Python data | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonReadIn.ipynb) |
 2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
 3 | W | Aug. 7 | Object oriented programming, functions, docstrings |  |
 4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
@@ -181,4 +181,4 @@ To further one's Python programming skills, a number of other great resources ex
 ## 8. References
 
 * DeBacker, Jason and Richard W. Evans, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished (2019).
-* Humpherys, Jeffrey and Tyler J. Jarvis, "[Python Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf)," *Labs for Foundations of Applied Mathematics*, (2019).
+* Humpherys, Jeffrey and Tyler J. Jarvis, "[Python Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf)," *Labs for Foundations of Applied Mathematics*, Brigham Young University, Applied and Computational Math Emphasis (ACME) (2019).
