@@ -1,6 +1,6 @@
 # World Bank - Tax Policy Research Unit, 2019
 
-This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Associate Director and Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina, and Dr. Sebastian James, Senior Economist, World Bank. 
+This repository contains the training materials, tutorials, lecture notes, code, and problem sets for the World Bank sponsored training of TPRU staff in Delhi, India August 5-9 and August 19-23. The training will be lead by Dr. Richard W. Evans, Associate Director and Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Dr. Jason DeBacker, Associate Professor in the Department of Economics at the University of South Carolina, and Dr. Sebastian James, Senior Economist, World Bank.
 
 This `README.md` serves as a reference for the TPRU training. This document has seven sections.
 
@@ -29,7 +29,8 @@ Below is a summary schedule of topics.
 1 | M | Aug. 5 |  | [Python Intro](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_PythonIntro.pdf) |
 1 | M | Aug. 5 | Reading in Python data | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonReadIn.ipynb) |
 2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
-3 | W | Aug. 7 | Object oriented programming, functions, docstrings |  |
+3 | W | Aug. 7 | Object oriented programming, functions, docstrings | [OOP](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_ObjectOriented.pdf) |
+3 | W | Aug. 7 | | [Functions Notebk](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonFuncs.ipynb) |
 4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
 5 | F | Aug. 9 | Three period lived agent OG model - theory |  |
 6 | F | Aug. 9 | Three period lived agent OG model - computation |  |
