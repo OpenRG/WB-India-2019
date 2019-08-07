@@ -31,6 +31,7 @@ Below is a summary schedule of topics.
 2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
 3 | W | Aug. 7 | Object oriented programming, functions, docstrings | [OOP](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_ObjectOriented.pdf) |
 3 | W | Aug. 7 | | [Functions Notebk](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonFuncs.ipynb) |
+3 | W | Aug. 7 | | [Standard Library](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/ACME_StandardLibrary.ipynb)
 4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
 5 | F | Aug. 9 | Three period lived agent OG model - theory |  |
 6 | F | Aug. 9 | Three period lived agent OG model - computation |  |
