@@ -28,11 +28,11 @@ Below is a summary schedule of topics.
 1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_d1_Evans.pdf) |
 1 | M | Aug. 5 |  | [Python Intro](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_PythonIntro.pdf) |
 1 | M | Aug. 5 | Reading in Python data | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonReadIn.ipynb) |
-2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  |
+2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  [Numpy and Pandas Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/NumpyPandas_Demo.ipynb), [Visualization Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Visualization_Demo.ipynb), [Exercises](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/NumpyPandasMatplotlib_Exercises.pdf)|
 3 | W | Aug. 7 | Object oriented programming, functions, docstrings | [OOP](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_ObjectOriented.pdf) |
 3 | W | Aug. 7 | | [Functions Notebk](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonFuncs.ipynb) |
 3 | W | Aug. 7 | | [Standard Library](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/ACME_StandardLibrary.ipynb)
-4 | W | Aug. 7 | Optimization (unconstrained, constrained) |  |
+4 | W | Aug. 7 | Optimization (unconstrained, constrained) | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OptimizationSlides.pdf), [Optimization Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization.ipynb), [Exercises](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization_Exercises.ipynb) |
 5 | F | Aug. 9 | Three period lived agent OG model - theory | [OG Chap 2](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OGtext_ch02.pdf) |
 6 | F | Aug. 9 | Three period lived agent OG model - computation |  |
 
