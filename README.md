@@ -34,7 +34,7 @@ Below is a summary schedule of topics.
 3 | W | Aug. 7 | | [Standard Library](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/ACME_StandardLibrary.ipynb)
 4 | W | Aug. 7 | Optimization (unconstrained, constrained) | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OptimizationSlides.pdf), [Optimization Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization.ipynb), [Exercises](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization_Exercises.ipynb) |
 5 | F | Aug. 9 | Three period lived agent OG model - theory | [OG Chap 2](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OGtext_ch02.pdf) |
-6 | F | Aug. 9 | Three period lived agent OG model - computation |  |
+6 | F | Aug. 9 | Three period lived agent OG model - computation | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/3PeriodModel_SS.ipynb) |
 
 ### Week 2
 
