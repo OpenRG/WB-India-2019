@@ -1,4 +1,3 @@
-from __future__ import print_function
 # import modules
 import multiprocessing
 from dask.distributed import Client
@@ -14,11 +13,9 @@ from ogindia.utils import REFORM_DIR, BASELINE_DIR
 def run_micro_macro(user_params):
     # Specify IIT reform
     reform = {
-        2019: {
-            "_II_rt7": [0.70],
-            "_PT_rt7": [0.70],
-            }
-        }
+        'II_rt7': {2020: 0.7},
+        'PT_rt7': {2020: 0.7}
+    }
 
     # Define parameters to use for multiprocessing
     client = Client(processes=False)
@@ -46,7 +43,7 @@ def run_micro_macro(user_params):
 
     start_time = time.time()
     runner(**kwargs)
-    print('run time = ', time.time()-start_time)
+    print('run time = ', time.time() - start_time)
 
     '''
     ------------------------------------------------------------------------
