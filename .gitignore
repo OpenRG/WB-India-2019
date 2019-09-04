@@ -31,4 +31,5 @@ dist/*
 */__pycache__/*
 *.coverage*
 *.pytest*
+Icon?
 .ipynb_checkpoints/*
