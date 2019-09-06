@@ -25,26 +25,22 @@ Below is a summary schedule of topics.
 
 | Meeting | Day | Date | Topics | Resources |
 |:---:|:---:|:--- |:--- |:--- |
-1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_d1_Evans.pdf) |
-1 | M | Aug. 5 |  | [Python Intro](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_PythonIntro.pdf) |
-1 | M | Aug. 5 | Reading in Python data | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonReadIn.ipynb) |
-2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  [Numpy and Pandas Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/NumpyPandas_Demo.ipynb), [Visualization Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Visualization_Demo.ipynb), [Exercises](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/NumpyPandasMatplotlib_Exercises.pdf)|
-3 | W | Aug. 7 | Object oriented programming, functions, docstrings | [OOP](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/ACME_ObjectOriented.pdf) |
-3 | W | Aug. 7 | | [Functions Notebk](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/PythonFuncs.ipynb) |
-3 | W | Aug. 7 | | [Standard Library](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/ACME_StandardLibrary.ipynb)
-4 | W | Aug. 7 | Optimization (unconstrained, constrained) | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OptimizationSlides.pdf), [Optimization Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization.ipynb), [Exercises](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/Optimization_Exercises.ipynb) |
-5 | F | Aug. 9 | Three period lived agent OG model - theory | [OG Chap 2](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/OGtext_ch02.pdf) |
-6 | F | Aug. 9 | Three period lived agent OG model - computation | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/Tutorials/3PeriodModel_SS.ipynb) |
+1 | M | Aug. 5 | Git and GitHub basic, intro to Python, IDE’s and Python workflows, data types, input/output | [Slides](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_d1_Evans.pdf), [Git](https://github.com/OpenRG/WB-India-2019/blob/master/GitTutorials/git_tutorial.pdf), [Python Basics](https://github.com/OpenRG/WB-India-2019/tree/master/PythonBasics) |
+2 | M | Aug. 5 | Numpy, broadcasting, indexing, pandas, visualization |  [Materials](https://github.com/OpenRG/WB-India-2019/tree/master/NumpyPandasVisualize)|
+3 | W | Aug. 7 | Object oriented programming, functions, docstrings | [Materials](https://github.com/OpenRG/WB-India-2019/tree/master/OOP_Functions) |
+4 | W | Aug. 7 | Optimization (unconstrained, constrained) | [Materials](https://github.com/OpenRG/WB-India-2019/tree/master/Optimization) |
+5 | F | Aug. 9 | Three period lived agent OG model - theory | [OG Chap 2](https://github.com/OpenRG/WB-India-2019/blob/master/3PeriodModel/OGtext_ch02.pdf) |
+6 | F | Aug. 9 | Three period lived agent OG model - computation | [Notebook](https://github.com/OpenRG/WB-India-2019/blob/master/3PeriodModel/3PeriodModel_SS.ipynbb) |
 
 ### Week 2
 
 | Meeting | Day | Date | Topics | Resources |
 |:---:|:---:|:--- |:--- |:--- |
-1  | M   | Aug. 19 | Theory and components/modules of [OG-USA](https://github.com/PSLmodels/OG-USA), Downloading the model, installing packages, setting a policy | [Slides 1](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_w2_d1_Evans.pdf) |
-2  | T   | Aug. 20 | Estimation of tax functions from India microsimulation model, Calibrating lifetime earnings profiles | [Slides 2](https://github.com/OpenRG/WB-India-2019/blob/master/SlidesNotes/Ind2019_w2_d2_Evans.pdf) |
-3  | W   | Aug. 21 | Calibrating demographics, Calibrating bequests and transfers | |
-4  | Th   | Aug. 22 | Calibrating labor supply and wealth distribution: chi_n^s, chi_b^j, Calibrating open economy, government closure rule | |
-5  | F   | Aug. 23 | Ways to run the model, how to change the model, questions/exercises | |
+1  | M   | Aug. 19 | Theory and components/modules of [OG-USA](https://github.com/PSLmodels/OG-USA), Downloading the model, installing packages, setting a policy | [Materials](https://github.com/OpenRG/WB-India-2019/tree/master/OG_Overview) |
+2  | T   | Aug. 20 | Estimation of tax functions from India microsimulation model, Calibrating lifetime earnings profiles | [Tax Functions](https://github.com/OpenRG/WB-India-2019/tree/master/TaxFunctions), [Earnings](https://github.com/OpenRG/WB-India-2019/tree/master/EarningsProfiles) |
+3  | W   | Aug. 21 | Calibrating demographics, Calibrating bequests and transfers |[Demographics](https://github.com/OpenRG/WB-India-2019/tree/master/Demographics), [Bequests](https://github.com/OpenRG/WB-India-2019/tree/master/Bequests) |
+4  | Th   | Aug. 22 | Calibrating labor supply and wealth distribution: chi_n^s, chi_b^j, Calibrating open economy, government closure rule | [Macro Calibration](https://github.com/OpenRG/WB-India-2019/tree/master/MacroParams) |
+5  | F   | Aug. 23 | Ways to run the model, how to change the model, questions/exercises | [Policy Params](https://github.com/OpenRG/WB-India-2019/tree/master/PolicyParams), [Model Demos](https://github.com/OpenRG/WB-India-2019/tree/master/ModelDemos) |
 
 
 We have provided 6 areas of tutorials that you will benefit from reading and working through before the training. We will, of course, teach these things as we go through the material. But we will be able to proceed at a faster pace if the attendees are already familiar with most of the concepts below.
